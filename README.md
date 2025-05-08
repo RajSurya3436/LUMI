@@ -54,12 +54,6 @@ LUMI is an affordable, emotionally expressive desktop companion robot that combi
 Dr. Sonal Ayyappan  
 Associate Professor & HOD, Department of Artificial Intelligence & Data Science
 
-## Presented By
-- Jeremy Joseph 
-- Mohammad Bilal   
-- P P Durga   
-- Raj Surya V 
-
 ## References
 1. Iván Froiz-Míguez et al., "Design, Implementation, and Practical Evaluation of a Voice Recognition Based IoT Home Automation System for Low-Resource Languages and Resource-Constrained Edge IoT Devices," IEEE Access, 2023.  
 2. Mahmoud Abbasi et al., "Security in the Internet of Things Application Layer: Requirements, Threats, and Solutions," IEEE Access, 2022.  
