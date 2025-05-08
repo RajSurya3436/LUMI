@@ -55,10 +55,10 @@ Dr. Sonal Ayyappan
 Associate Professor & HOD, Department of Artificial Intelligence & Data Science
 
 ## Presented By
-- Jeremy Joseph (31)  
-- Mohammad Bilal (37)  
-- P P Durga (43)  
-- Raj Surya V (44)
+- Jeremy Joseph 
+- Mohammad Bilal   
+- P P Durga   
+- Raj Surya V 
 
 ## References
 1. Iván Froiz-Míguez et al., "Design, Implementation, and Practical Evaluation of a Voice Recognition Based IoT Home Automation System for Low-Resource Languages and Resource-Constrained Edge IoT Devices," IEEE Access, 2023.  
